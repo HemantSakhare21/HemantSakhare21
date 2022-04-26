@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 - 🔭 I’m currently working on a Web based Project.
 - 🌱 I’m currently learning MERN stack
